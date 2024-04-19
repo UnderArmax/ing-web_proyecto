@@ -29,7 +29,7 @@ ONU: Garantizar una vida sana y promover el bienestar para todos en todas las
 edades
 
 > [!NOTE]
-> Idea de proyecto escogida: 1 
+> Idea de proyecto escogida: 1 //
 > Se usa aplicación Zepp Life
 
 ### Funcionalidades
