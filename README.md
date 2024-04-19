@@ -29,13 +29,17 @@ ONU: Garantizar una vida sana y promover el bienestar para todos en todas las
 edades
 
 > [!NOTE]
-> Idea de proyecto escogida: 1 //
+> Idea de proyecto escogida: 1
+> 
 > Se usa aplicación Zepp Life
 
 ### Funcionalidades
 
-> [!NOTE]
-> Crear una lista numerada con las funcionalidades propuestas para su proyecto.
+1. Registro de datos de persona: Edad, Genero, Peso, Altura, Actividad(Sedentario, Parcialmente Activo, Activo).
+2. Registro de perfil e inicio de sesión: Usuario, Nombre y Apellido, Correo, Password. Log In: Usuario o Correo + Password.
+3. Diagnostico de estado actual físico.
+4. Sugerencias de dietas con ayuda de alguna IA. Conteo de Calorias.
+5. Seleccionar una meta de peso y registro de actividad física. Conteo de calorias gastadas.
 
 ## Prototipo
 
