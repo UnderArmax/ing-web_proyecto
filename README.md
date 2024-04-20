@@ -43,9 +43,6 @@ edades
 
 ## Prototipo
 
-> [!NOTE]
-> Debe reemplazar los URL de los archivos Figma. Ver al final de este archivo, ahí estan los links.
-
 <div align="center">
 
 [![figma-prot-badge]][figma-prot-url] [![figma-dis-badge]][figma-dis-url]
@@ -54,8 +51,6 @@ edades
 
 ## Maquetación web
 
-> [!NOTE]
-> Debe incluir los archivos de maquetación en la carpeta respectiva, e incluir una breve descripción de dichos archivos.
 
 [js-badge-sm]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat
 [js-web]: https://developer.mozilla.org/es/docs/Web/JavaScript
@@ -107,4 +102,4 @@ edades
 [figma-prot-badge]: https://img.shields.io/badge/Ver%20prototipo%20en%20Figma-F24E1E?logo=figma&logoColor=fff&style=flat
 [figma-prot-url]: #
 [figma-dis-badge]: https://img.shields.io/badge/Ver%20diseño%20UI%20en%20Figma-F24E1E?logo=figma&logoColor=fff&style=flat
-[figma-dis-url]: #
+[figma-dis-url]: https://www.figma.com/file/mn8zplzuvUKsIpXgMtZozx/Let's-Get-Fit?type=design&node-id=0-1&mode=design&t=fZBDvGyiNJbYzH21-0
