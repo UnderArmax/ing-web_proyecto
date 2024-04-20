@@ -30,8 +30,6 @@ edades
 
 > [!NOTE]
 > Idea de proyecto escogida: 1
-> 
-> Se usa aplicación Zepp Life
 
 ### Funcionalidades
 
