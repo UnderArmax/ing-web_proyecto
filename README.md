@@ -107,4 +107,4 @@ edades
 [figma-prot-badge]: https://img.shields.io/badge/Ver%20prototipo%20en%20Figma-F24E1E?logo=figma&logoColor=fff&style=flat
 [figma-prot-url]: #
 [figma-dis-badge]: https://img.shields.io/badge/Ver%20diseño%20UI%20en%20Figma-F24E1E?logo=figma&logoColor=fff&style=flat
-[figma-dis-url]: #
+[figma-dis-url]: https://www.figma.com/file/mn8zplzuvUKsIpXgMtZozx/Let's-Get-Fit?type=design&node-id=0-1&mode=design&t=fZBDvGyiNJbYzH21-0
